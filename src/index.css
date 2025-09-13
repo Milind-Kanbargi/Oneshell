@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+
+    @font-face {
+        font-family: "AVENIR-L";
+        src: url("Fonts/AVENIR-LIGHT.TTF");
+    }
+    @font-face {
+        font-family: "AVENIR-M";
+        src: url("Fonts/AVENIR-MEDIUM.TTF");
+    }
+    @font-face {
+        font-family: "AVENIR-H";
+        src: url("Fonts/AVENIR-HEAVY.TTF");
+    }
+    @font-face {
+        font-family: "AVENIR-BOOK";
+        src: url("Fonts/AVENIR-BOOK.TTF"); 
+    }
+    @font-face {
+        font-family: "AVENIR-BLACK";
+        src: url("Fonts/AVENIR-BLACK.TTF");
+    }
+    @font-face {
+        font-family: "AVENIR-35L";
+        src: url("Fonts/AVENIR_35_LIGHT.TTF");
+    }
+    @font-face {
+        font-family: "AVENIR-ROMAN";
+        src: url("Fonts/AVENIR-ROMAN.ttf");
+    }
+    @font-face {
+        font-family: "ZAIO";
+        src: url("Fonts/Zaio.ttf");
+    }
+    }

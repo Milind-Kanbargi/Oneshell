@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2f5e099b.css",
+    "main.js": "./static/js/main.9e811732.js",
+    "static/js/453.751373d5.chunk.js": "./static/js/453.751373d5.chunk.js",
+    "static/media/AVENIR-HEAVY.TTF": "./static/media/AVENIR-HEAVY.d153ffbdf7ad6e701e3c.TTF",
+    "static/media/AVENIR-BLACK.TTF": "./static/media/AVENIR-BLACK.71a1c443d8d5d837252e.TTF",
+    "static/media/AVENIR-MEDIUM.TTF": "./static/media/AVENIR-MEDIUM.b418eb7421033cfc8328.TTF",
+    "static/media/AVENIR-ROMAN.ttf": "./static/media/AVENIR-ROMAN.d3ff2b73a90f32336dd2.ttf",
+    "static/media/AVENIR-LIGHT.TTF": "./static/media/AVENIR-LIGHT.440ab17106fb681bc9d3.TTF",
+    "static/media/AVENIR-BOOK.TTF": "./static/media/AVENIR-BOOK.d3d91ab15494d21abb51.TTF",
+    "static/media/logo.png": "./static/media/logo.be67ea91acf199f78b33.png",
+    "static/media/AVENIR_35_LIGHT.TTF": "./static/media/AVENIR_35_LIGHT.438559c5bc183fdcebe8.TTF",
+    "static/media/Zaio.ttf": "./static/media/Zaio.c28f992b34d15021e604.ttf",
+    "static/media/search.png": "./static/media/search.8861b03fdd1bf911620d.png",
+    "static/media/settle.png": "./static/media/settle.4ed9bcbf8094016f99c7.png",
+    "static/media/support.png": "./static/media/support.b8b43154833a918c4787.png",
+    "static/media/bin.png": "./static/media/bin.c4f0af28c10a19fbeee1.png",
+    "index.html": "./index.html",
+    "main.2f5e099b.css.map": "./static/css/main.2f5e099b.css.map",
+    "main.9e811732.js.map": "./static/js/main.9e811732.js.map",
+    "453.751373d5.chunk.js.map": "./static/js/453.751373d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5e099b.css",
+    "static/js/main.9e811732.js"
+  ]
+}
